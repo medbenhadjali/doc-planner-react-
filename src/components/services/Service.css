@@ -1,0 +1,62 @@
+.market {
+    border-radius: 10px;
+    padding: 1.375em 2.5em 0;
+  }
+
+  .element1 {
+    position: relative;
+    background: #00ccb1;
+    border-radius: 10px;
+    width: 45%;
+    height: 330px;
+    
+    padding: 10px;
+  
+    overflow: hidden;
+  }
+
+  .elements {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -10px;
+    
+  }
+
+  .item {
+    position: absolute;
+    right: -50px;
+    bottom: 0;
+  }
+
+  .elements img {
+    width: 250px;
+    height: auto;
+  }
+
+
+  .services {
+    margin: 3.75rem auto 2.5rem;
+    max-width: 1015px;
+    padding: 0 20px;}
+
+    .btn-choix {
+        width: 200px;
+      
+        border: 0;
+        border-radius: 4px;
+        padding: 20px;
+        /* height: 10px; */
+      }
+
+      .elements h2 {
+        font-size: 1.625em;
+        color: #fff;
+        margin-top: 0.3em;
+      }
+
+      .elements h1 {
+        font-size: 0.875em;
+        font-weight: 400;
+        margin: 0;
+        color: hsla(0, 0%, 100%, 0.7);
+      }

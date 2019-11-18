@@ -1,0 +1,47 @@
+.office-header{
+    max-width: 460px;
+    margin: 0 auto 4.1875rem;
+    font-size: .875em;
+    text-align: center;
+   }
+   .office-header h1{
+    color: #00b39b
+   }
+   .pays{
+    display: flex;
+    flex-wrap: wrap;
+   }
+  .description{
+    display:flex;
+    justify-content: space-between;}
+    
+   .btn{
+    padding: 1em 1.5em;
+     background: #3d83df;
+     color: #fff;
+     text-transform: uppercase;
+     text-align: center;
+     border-radius: 4px;
+     font-weight: 700;
+     font-size: 9px;
+   }
+  
+   .offices{
+    margin: 3.75rem auto 2.5rem;
+    max-width: 1015px;
+    padding: 20px 30px;
+   }
+  
+   .ville{
+     padding: 13px;
+     border-radius: 4px;
+   }
+   
+   .ville:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+  
+  p{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;
+  }

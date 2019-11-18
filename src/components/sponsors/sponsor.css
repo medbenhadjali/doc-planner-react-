@@ -1,0 +1,19 @@
+.brands {
+    display: flex;
+  }
+  .brands h1 {
+    color: #00b39b;
+  
+    width: 33%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    padding-left: 9em;
+  }
+  
+  .brands-logo svg {
+    opacity: 0.4;
+    height: 20px;
+  
+    padding: 5px 0px;
+  }
